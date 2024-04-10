@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minakshibiradar
-- 👀 I’m interested Technology.
-- 🌱 I’m currently learning B.TECH in Computer Science.
+- 👀 I’m interested in learning new Technology.
+- 🌱 I’m currently pursuing B.TECH in Computer Science.
 - 💞️ I’m looking to collaborate on Innovative Project Ideas.
 - 📫 How to reach me minakshibiradar61@gmail.com.
 
