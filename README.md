@@ -5,7 +5,7 @@
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
         <ul>
-            <li>🔭 I’m currently working on <strong>Water Level Monitoring System</strong></li>
+            <li>🔭 I’m currently working on <strong>Journal App</strong></li>
             <li>🌱 I’m currently learning <strong>DSA, Machine Learning</strong></li>
             <li>👯 I’m looking to collaborate on <strong>AI Projects</strong></li>
             <li>💬 Ask me about <strong>DSA, JAVA, Web Development</strong></li>
