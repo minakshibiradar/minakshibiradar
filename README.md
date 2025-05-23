@@ -5,10 +5,10 @@
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
         <ul>
-            <li>🔭 I’m currently working on <strong>Journal App</strong></li>
-            <li>🌱 I’m currently learning <strong>DSA, Machine Learning</strong></li>
-            <li>👯 I’m looking to collaborate on <strong>AI Projects</strong></li>
-            <li>💬 Ask me about <strong>DSA, JAVA, Web Development</strong></li>
+            <li>🔭 I’m currently working on <strong>Java Full Stack Development</strong></li>
+            <li>🌱 I’m currently learning <strong>DSA, Spring Boot,Hibernate</strong></li>
+            <li>👯 I’m looking to collaborate on <strong>Development Projects</strong></li>
+            <li>💬 Ask me about <strong>DSA, JAVA, Web Development,React.JS,Spring Boot</strong></li>
             <li>📫 How to reach me <strong>minakshibiradar61@gmail.com</strong></li>
             <li>⚡ Fun fact <strong>I think I am funny</strong></li>
         </ul>
